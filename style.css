@@ -1,0 +1,83 @@
+.container h1{
+   color: rgb(67, 67, 175);
+
+ }
+
+ .nav{
+    padding-right: 35px;
+    padding-left: 35%;
+    padding-top: -4%;
+    align-items: center;
+    display: flex;
+   
+ }
+
+ button{
+   float: right;
+   display: inline-block;
+   padding: 10px;
+   align-items: center;
+   color: aliceblue;
+   padding-top: -400%;
+   background-color: blue;
+ 
+}
+
+ navbar ul,li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 20px;
+ }
+ 
+ #Vision{
+    padding-left: 30px ;
+    color: darkslateblue;
+    font-size: 60px;
+ }
+
+ .h2{
+    color: black;
+    padding-left: 30px;
+    text-align: justify;
+    font-size:45px ;
+ }
+
+ h6{
+   padding: 8px 50px;
+   margin: 5px  50px 0 ;
+   font-size: 15px;
+   color: rgb(89, 73, 73);
+   padding-left: 30px;
+   justify-content: space-between;
+   
+ }
+
+ .me{position: absolute;
+   padding:20px;
+   margin-left: 2%;
+
+ }
+
+ #b1{background-color: blue;
+   border-radius: 30%;
+   padding:6px;
+   color: aliceblue;
+font-weight: bold;
+
+ }
+
+ #b2{
+   border: none;
+
+ }
+
+ #control{
+    color: darkslateblue;
+
+ }
+
+.image img{
+   width: 60%;
+   float: right;
+   padding-top:-30% ;
+}
