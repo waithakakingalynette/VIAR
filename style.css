@@ -15,11 +15,14 @@
  button{
    float: right;
    display: inline-block;
-   padding: 10px;
    align-items: center;
-   color: aliceblue;
    padding-top: -400%;
    background-color: blue;
+   border-radius: 30%;
+   padding:6px;
+   color: aliceblue;
+   font-weight: bold;
+   justify-content: space-between;
  
 }
 
@@ -62,12 +65,17 @@
    border-radius: 30%;
    padding:6px;
    color: aliceblue;
-font-weight: bold;
+   font-weight: bold;
+   justify-content: space-between;
 
  }
 
  #b2{
    border: none;
+   background-color: blue;
+   border-radius: 30%;
+   color: aliceblue;
+   font-weight: bold;
 
  }
 
@@ -79,5 +87,6 @@ font-weight: bold;
 .image img{
    width: 60%;
    float: right;
-   padding-top:-30% ;
+   padding: top -30%; 
+   margin-top: -25%;
 }
